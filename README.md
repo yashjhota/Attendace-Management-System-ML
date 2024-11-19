@@ -18,7 +18,8 @@ The **Attendance Management System (AMS)** is a modern, web-based solution for t
 
 - **Data Export**
   - Excel sheet generation for attendance records
-  - Custom date range selection
+  - Custom date range selection 
+
   - Course-wise detailed reports
 
 - **Prediction Model**
@@ -49,4 +50,8 @@ The **Attendance Management System (AMS)** is a modern, web-based solution for t
 - **Machine Learning**: 
   - Custom predictive algorithm based on attendance patterns
 
+## ScreenShots
+![Attendace Marking Interface](https://github.com/user-attachments/assets/408eb552-78d5-4134-ba99-d6ce9429eab1)
+
+![Student Analysis Interface](https://github.com/user-attachments/assets/d7000f29-707c-4e5e-bbe7-ba183c74e43d)
 
